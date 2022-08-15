@@ -1,0 +1,9 @@
+.image {
+  display: block;
+  margin: 0px;
+  width: 200px;
+}
+.list {
+  margin-bottom: 30px;
+  list-style: none;
+}
